@@ -1,0 +1,3 @@
+sudo packman -S java
+sudo pacman -S extra/jre-openjdk-headless
+to install any package we need to use packman
